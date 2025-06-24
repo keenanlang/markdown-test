@@ -1,0 +1,4 @@
+---
+title: Grandchild
+parent: Child
+---
