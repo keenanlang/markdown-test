@@ -1,8 +1,7 @@
 ---
 title: Child
 parent: Home
+has_toc: false
 ---
-
-{: .no_toc .text-delta }
 
 This is a child

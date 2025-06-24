@@ -1,6 +1,5 @@
 ---
 title: Grandchild
 parent: Child
+has_toc: false
 ---
-
-{: .no_toc .text-delta }
