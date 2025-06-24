@@ -1,5 +1,5 @@
 # Test
 
-edit
+check updated
 
 {% include test.md %}
