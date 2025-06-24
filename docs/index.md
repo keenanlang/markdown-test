@@ -2,4 +2,4 @@
 
 edit
 
-{% include_relative toinclude.md %}
+{% include test.md %}
