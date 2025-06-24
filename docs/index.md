@@ -1,5 +1,5 @@
 # Test
 
-check updated
+check cache fix
 
 {% include test.md %}
